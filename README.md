@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Sou o Davi tenho 20 anos e estou no 5° semestre de ciência da computação.Aqui neste repositório você encontrá-la meus projetos que foram desenvolvidos utilizando Python, Django ou Flask. Meu objetivo com este projetos é aprender o máximo possível e ganhar cada vez mais experiência prática.
+Sou o Davi tenho 22 anos e estou no 8° semestre de ciência da computação.Aqui neste repositório você encontrá-la meus projetos que foram desenvolvidos utilizando Python, Django ou Flask. Meu objetivo com este projetos é aprender o máximo possível e ganhar cada vez mais experiência prática.
 
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feliciano-davi/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davifeliciano20/)
